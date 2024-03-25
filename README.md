@@ -17,13 +17,22 @@ Digite o seguinte comando no Shell:
 
 git clone https://github.com/lucasuyemura/Calculadora.git
 
-Em seguida, digite o seguinte comando no Shell: 
+Em seguida, ele abrirá em seus arquivos uma pasta: Calculadora
 
-<b>git pull origin main</b>
+Digite o seguinte comando no Shell:
+
+cd Calculadora
+
+Para execução do projeto, digite o comando no Shell:
+
+python main.py
+
 
 ## Notas Adicionais
 Se encontrar problemas durante a execução, certifique-se de estar digitando os
 comandos certos no Shell do replit
+
+Certifique-se de estar dentro do diretório onde o projeto está sendo executado
 
 # Calculadora
 Projeto criado para se divertir utilizando Python
